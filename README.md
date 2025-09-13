@@ -47,6 +47,17 @@ This project demonstrates how to containerize a Flask application using **Docker
 - Used `docker ps` to verify all three services — **Flask, Redis, and PostgreSQL** — were running together.  
 
 ---
+## 📸 Screenshots
+
+### Docker Build
+![Docker Build](screenshots/docker-build.jpg)
+
+### Docker Compose Up (Flask + Redis + PostgreSQL)
+![Docker Compose](screenshots/docker-compose.jpg)
+
+### Running Containers (docker ps + Redis logs)
+![Docker PS](screenshots/docker-ps.png)
+
 
 ## Key Outcomes
 - Successfully containerized a Flask application using Docker.  
