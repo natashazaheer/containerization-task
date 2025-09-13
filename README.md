@@ -56,7 +56,7 @@ This project demonstrates how to containerize a Flask application using **Docker
 ![Docker Compose](screenshots/docker-compose.jpg)
 
 ### Running Containers (docker ps + Redis logs)
-![Docker PS](screenshots/docker-ps.png)
+![Docker PS](screenshots/docker-ps.jpg)
 
 
 ## Key Outcomes
